@@ -1,0 +1,9 @@
+Deep Learning - Machine Learning Mastery Using Cloud Computing
+
+ML6973 - Fall 2016
+Paul Rad, Ph.D.
+Open Cloud Institute
+
+
+Machine can learn through the training process for tasks include but not restrickted to recognize human faces, recommend music and movies, and drive autonomous cars and robots. This eLab section covers the theory and practical algorithms for machine learning from a variety of perspectives while focusing on deep learning using advanced neural network algorithms: Convolutional Neural Network, Recuurent Neural Network, Resudual Neural Network, and unsupervised learning methods. The eLab covers theoretical concepts such as the PAC learning, Empirical Risk Minimization with Inductive Bias, The Bias-Complexity Tradeoff, Convex Learning Problems, and Overfitting. Short programming assignments include hands-on experiments and a larger project provide students with a chance to dig into an area of their choice. 
+This graduate-level lab ground students in the terminology, mathematics understanding, algorithms applications, and technologies which are under the demand by industry, research institute, and academic.
